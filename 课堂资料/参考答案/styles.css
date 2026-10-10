@@ -210,6 +210,7 @@ footer { border-top: 1px solid var(--line); padding: 25px 0; }
 }
 
 .works-notice { font-size: 15px; color: var(--muted); margin-top: 10px; }
+<<<<<<< HEAD
 
 /* ---------- 第 4 课新增：四处由 JavaScript 控制的视觉效果 ---------- */
 
@@ -359,3 +360,5 @@ footer { border-top: 1px solid var(--line); padding: 25px 0; }
 @media (max-width: 640px) {
   .works-sort { margin-left: 0; }
 }
+=======
+>>>>>>> fd2ff791c4748c9abed3b8e099ed764b5f709050
