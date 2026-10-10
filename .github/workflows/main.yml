@@ -1,1 +1,4 @@
-
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:   # 这一行就是开启手动触发，没有它就看不到Run workflow按钮
